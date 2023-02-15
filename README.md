@@ -1,2 +1,2 @@
-# DSP Porcesamiento Digital de Señales
+# DSP - Procesamiento Digital de Señales
 Universidad Nacional de Colombia sede Manizales
